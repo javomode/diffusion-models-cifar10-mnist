@@ -91,3 +91,15 @@ Small-network training on 100 and 1,000 CIFAR-10 images (7.0M parameters, batch 
 
 - Karras et al., "Elucidating the Design Space of Diffusion-Based Generative Models", NeurIPS 2022. Code: https://github.com/NVlabs/edm
 - Ho and Salimans, "Classifier-Free Diffusion Guidance", 2022.
+
+## AI Usage
+
+AI tools were used throughout this project as a supplementary resource for technical troubleshooting, documentation, and conceptual understanding.
+
+- **DSMLP Setup and Troubleshooting:** Used AI to help troubleshoot connecting to UCSD's DSMLP servers and configuring JupyterLab access. The original setup tutorial did not work as expected, so AI helped identify alternative commands, troubleshoot SSH port forwarding, and understand how to access and maintain a GPU-enabled environment.
+
+- **Figure Captions and LaTeX Formatting:** Used AI to help draft concise figure captions and format charts and mathematical expressions in LaTeX for the final report. This included improving the clarity and consistency of figure descriptions and addressing formatting issues.
+
+- **Conceptual Understanding and Note Synthesis:** Used AI to synthesize lecture notes, project materials, and experimental observations to clarify concepts related to diffusion models, conditional generation, classifier-free guidance (CFG), and FID evaluation. This helped identify gaps in my understanding and develop clearer explanations of the underlying methods.
+
+AI was used as a learning and productivity aid. Experimental code, model execution, generated images, evaluation results, and interpretation of findings were completed and reviewed as part of my own project work.
